@@ -1,0 +1,862 @@
+Top 3 players for each stastic
+----------------------------------------------------------------------
+
+MP
+Top 3 players with highest scores:
+1. Raúl Jiménez (Fulham): 34
+2. Tyrick Mitchell (Crystal Palace): 34
+3. Moisés Caicedo (Chelsea): 34
+
+Top 3 players with the lowest scores:
+1. Ayden Heaven (Manchester Utd): 2
+2. Odsonne Édouard (Crystal Palace): 2
+3. Jason Steele (Brighton): 2
+
+Starts
+Top 3 players with highest scores:
+1. Tyrick Mitchell (Crystal Palace): 34
+2. Moisés Caicedo (Chelsea): 34
+3. Bruno Guimarães (Newcastle Utd): 34
+
+Top 3 players with the lowest scores:
+1. Ali Al Hamadi (Ipswich Town): 0
+2. Tyrique George (Chelsea): 0
+3. Antony (Manchester Utd): 0
+
+Min
+Top 3 players with highest scores:
+1. David Raya (Arsenal): 3060
+2. Dean Henderson (Crystal Palace): 3060
+3. Bernd Leno (Fulham): 3060
+
+Top 3 players with the lowest scores:
+1. Harrison Reed (Fulham): 93
+2. Ayden Heaven (Manchester Utd): 95
+3. Jahmai Simpson-Pusey (Manchester City): 96
+
+Goals
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 27
+2. Alexander Isak (Newcastle Utd): 22
+3. Erling Haaland (Manchester City): 21
+
+Top 3 players with the lowest scores:
+1. Willian (Fulham): 0
+2. Alex Scott (Bournemouth): 0
+3. Alex Palmer (Ipswich Town): 0
+
+Assists
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 18
+2. Jacob Murphy (Newcastle Utd): 11
+3. Antonee Robinson (Fulham): 10
+
+Top 3 players with the lowest scores:
+1. Aaron Cresswell (West Ham): 0
+2. Aaron Ramsdale (Southampton): 0
+3. Ali Al Hamadi (Ipswich Town): 0
+
+Yellow_Card
+Top 3 players with highest scores:
+1. Saša Lukić (Fulham): 12
+2. Will Hughes (Crystal Palace): 11
+3. Flynn Downes (Southampton): 10
+
+Top 3 players with the lowest scores:
+1. Wataru Endo (Liverpool): 0
+2. William Osula (Newcastle Utd): 0
+3. Antony (Manchester Utd): 0
+
+Red_Card
+Top 3 players with highest scores:
+1. Jack Stephens (Southampton): 2
+2. Bruno Fernandes (Manchester Utd): 2
+3. Myles Lewis-Skelly (Arsenal): 2
+
+Top 3 players with the lowest scores:
+1. Woyo Coulibaly (Leicester City): 0
+2. Wout Faes (Leicester City): 0
+3. Wilson Odobert (Tottenham): 0
+
+stand_xG
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 23.7
+2. Erling Haaland (Manchester City): 20.8
+3. Alexander Isak (Newcastle Utd): 19
+
+Top 3 players with the lowest scores:
+1. Wataru Endo (Liverpool): 0
+2. Welington (Southampton): 0
+3. Antonín Kinský (Tottenham): 0
+
+xAG
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 12.1
+2. Cole Palmer (Chelsea): 9.3
+3. Son Heung-min (Tottenham): 8.2
+
+Top 3 players with the lowest scores:
+1. Welington (Southampton): 0
+2. Arijanet Muric (Ipswich Town): 0
+3. Matz Sels (Nott'ham Forest): 0
+
+PrgC
+Top 3 players with highest scores:
+1. Jeremy Doku (Manchester City): 176
+2. Kaoru Mitoma (Brighton): 138
+3. Mohamed Salah (Liverpool): 138
+
+Top 3 players with the lowest scores:
+1. Aaron Ramsdale (Southampton): 0
+2. Wataru Endo (Liverpool): 0
+3. Armel Bella Kotchap (Southampton): 0
+
+PrgP
+Top 3 players with highest scores:
+1. Bruno Fernandes (Manchester Utd): 264
+2. Bruno Guimarães (Newcastle Utd): 241
+3. Joško Gvardiol (Manchester City): 240
+
+Top 3 players with the lowest scores:
+1. Aaron Ramsdale (Southampton): 0
+2. Alisson (Liverpool): 0
+3. Łukasz Fabiański (West Ham): 0
+
+PrgR
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 407
+2. Bryan Mbeumo (Brentford): 300
+3. Kaoru Mitoma (Brighton): 277
+
+Top 3 players with the lowest scores:
+1. Łukasz Fabiański (West Ham): 0
+2. Aaron Ramsdale (Southampton): 0
+3. Nathan Wood-Gordon (Southampton): 0
+
+Gls
+Top 3 players with highest scores:
+1. Jáder Durán (Aston Villa): 0.99
+2. Donyell Malen (Aston Villa): 0.99
+3. Richarlison (Tottenham): 0.94
+
+Top 3 players with the lowest scores:
+1. Armando Broja (Everton): 0
+2. Wilson Odobert (Tottenham): 0
+3. Abdul Fatawu Issahaku (Leicester City): 0
+
+Ast
+Top 3 players with highest scores:
+1. Tyrique George (Chelsea): 0.87
+2. Danny Ings (West Ham): 0.63
+3. Bukayo Saka (Arsenal): 0.62
+
+Top 3 players with the lowest scores:
+1. Yves Bissouma (Tottenham): 0
+2. Ayden Heaven (Manchester Utd): 0
+3. Armel Bella Kotchap (Southampton): 0
+
+xG
+Top 3 players with highest scores:
+1. James Mcatee (Manchester City): 0.85
+2. Richarlison (Tottenham): 0.83
+3. Marco Asensio (Aston Villa): 0.78
+
+Top 3 players with the lowest scores:
+1. Łukasz Fabiański (West Ham): 0
+2. Aaron Ramsdale (Southampton): 0
+3. Alex Palmer (Ipswich Town): 0
+
+xGA
+Top 3 players with highest scores:
+1. Tyrique George (Chelsea): 0.63
+2. Mykhailo Mudryk (Chelsea): 0.58
+3. Luis Sinisterra (Bournemouth): 0.54
+
+Top 3 players with the lowest scores:
+1. Łukasz Fabiański (West Ham): 0
+2. Aaron Ramsdale (Southampton): 0
+3. Woyo Coulibaly (Leicester City): 0
+
+GA90
+Top 3 players with highest scores:
+1. Danny Ward (Leicester City): 4
+2. Christian Walton (Ipswich Town): 2.67
+3. Alex McCarthy (Southampton): 2.6
+
+Top 3 players with the lowest scores:
+1. Jason Steele (Brighton): 0.5
+2. Alisson (Liverpool): 0.83
+3. David Raya (Arsenal): 0.85
+
+Save%
+Top 3 players with highest scores:
+1. Neto (Bournemouth): 84.6
+2. Mark Travers (Bournemouth): 80
+3. Robert Sánchez (Chelsea): 76.7
+
+Top 3 players with the lowest scores:
+1. Danny Ward (Leicester City): 40
+2. Hákon Rafn Valdimarsson (Brentford): 50
+3. Robin Olsen (Aston Villa): 55.6
+
+CS%
+Top 3 players with highest scores:
+1. Hákon Rafn Valdimarsson (Brentford): 100
+2. Robin Olsen (Aston Villa): 100
+3. Martin Dúbravka (Newcastle Utd): 50
+
+Top 3 players with the lowest scores:
+1. Alex McCarthy (Southampton): 0
+2. Alex Palmer (Ipswich Town): 0
+3. Danny Ward (Leicester City): 0
+
+PKsv%
+Top 3 players with highest scores:
+1. Caoimhín Kelleher (Liverpool): 100
+2. Jordan Pickford (Everton): 100
+3. Nick Pope (Newcastle Utd): 50
+
+Top 3 players with the lowest scores:
+1. Alex McCarthy (Southampton): 0
+2. Alex Palmer (Ipswich Town): 0
+3. Bart Verbruggen (Brighton): 0
+
+SoT%
+Top 3 players with highest scores:
+1. Adam Webster (Brighton): 100
+2. Archie Gray (Tottenham): 100
+3. Ryan Fraser (Southampton): 100
+
+Top 3 players with the lowest scores:
+1. Aaron Cresswell (West Ham): 0
+2. Álex Moreno (Nott'ham Forest): 0
+3. Abdukodir Khusanov (Manchester City): 0
+
+SoT/90
+Top 3 players with highest scores:
+1. Julio Enciso (Brighton): 3.37
+2. Donyell Malen (Aston Villa): 2.64
+3. Luis Sinisterra (Bournemouth): 2.29
+
+Top 3 players with the lowest scores:
+1. Aaron Cresswell (West Ham): 0
+2. Aaron Ramsdale (Southampton): 0
+3. Ali Al Hamadi (Ipswich Town): 0
+
+G/Sh
+Top 3 players with highest scores:
+1. John Stones (Manchester City): 1
+2. Myles Lewis-Skelly (Arsenal): 0.5
+3. Axel Disasi (Chelsea): 0.5
+
+Top 3 players with the lowest scores:
+1. Willy Boly (Nott'ham Forest): 0
+2. Willian (Fulham): 0
+3. Aaron Cresswell (West Ham): 0
+
+Dist
+Top 3 players with highest scores:
+1. Emmanuel Agbadou (Wolves): 32.6
+2. Ibrahim Sangaré (Nott'ham Forest): 32
+3. Ryan Fraser (Southampton): 31.6
+
+Top 3 players with the lowest scores:
+1. Kieran Tierney (Arsenal): 2.6
+2. Harry Clarke (Ipswich Town): 4.5
+3. John Stones (Manchester City): 5.1
+
+Cmp
+Top 3 players with highest scores:
+1. Virgil van Dijk (Liverpool): 2590
+2. Joško Gvardiol (Manchester City): 2464
+3. Levi Colwill (Chelsea): 2418
+
+Top 3 players with the lowest scores:
+1. Odsonne Édouard (Crystal Palace): 8
+2. Albert Grønbaek (Southampton): 18
+3. William Osula (Newcastle Utd): 19
+
+Cmp%
+Top 3 players with highest scores:
+1. William Saliba (Arsenal): 94.2
+2. Manuel Akanji (Manchester City): 93.9
+3. Nathan Aké (Manchester City): 93.9
+
+Top 3 players with the lowest scores:
+1. Matz Sels (Nott'ham Forest): 50.1
+2. George Hirst (Ipswich Town): 53.5
+3. Beto (Everton): 56.6
+
+TotDist
+Top 3 players with highest scores:
+1. Virgil van Dijk (Liverpool): 43424
+2. Levi Colwill (Chelsea): 39487
+3. William Saliba (Arsenal): 39201
+
+Top 3 players with the lowest scores:
+1. Odsonne Édouard (Crystal Palace): 59
+2. Albert Grønbaek (Southampton): 135
+3. William Osula (Newcastle Utd): 148
+
+Short_Cmp%
+Top 3 players with highest scores:
+1. Łukasz Fabiański (West Ham): 100
+2. Arijanet Muric (Ipswich Town): 100
+3. Antonín Kinský (Tottenham): 100
+
+Top 3 players with the lowest scores:
+1. William Osula (Newcastle Utd): 61.5
+2. Paul Onuachu (Southampton): 63.8
+3. George Hirst (Ipswich Town): 64.9
+
+Medium_Cmp%
+Top 3 players with highest scores:
+1. Danny Ward (Leicester City): 100
+2. Robin Olsen (Aston Villa): 100
+3. Caoimhín Kelleher (Liverpool): 100
+
+Top 3 players with the lowest scores:
+1. George Hirst (Ipswich Town): 47.8
+2. Beto (Everton): 48.5
+3. Albert Grønbaek (Southampton): 50
+
+KP
+Top 3 players with highest scores:
+1. Cole Palmer (Chelsea): 78
+2. Bruno Fernandes (Manchester Utd): 77
+3. Mohamed Salah (Liverpool): 75
+
+Top 3 players with the lowest scores:
+1. Aaron Ramsdale (Southampton): 0
+2. Alphonse Areola (West Ham): 0
+3. Armel Bella Kotchap (Southampton): 0
+
+1/3
+Top 3 players with highest scores:
+1. Virgil van Dijk (Liverpool): 258
+2. Joško Gvardiol (Manchester City): 225
+3. Youri Tielemans (Aston Villa): 221
+
+Top 3 players with the lowest scores:
+1. Ali Al Hamadi (Ipswich Town): 0
+2. William Osula (Newcastle Utd): 0
+3. Chiedozie Ogbene (Ipswich Town): 0
+
+PPA
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 80
+2. Martin Ødegaard (Arsenal): 78
+3. Alex Iwobi (Fulham): 77
+
+Top 3 players with the lowest scores:
+1. Alisson (Liverpool): 0
+2. Ali Al Hamadi (Ipswich Town): 0
+3. Alphonse Areola (West Ham): 0
+
+CrsPA
+Top 3 players with highest scores:
+1. Pedro Porro (Tottenham): 26
+2. Antonee Robinson (Fulham): 26
+3. Milos Kerkez (Bournemouth): 22
+
+Top 3 players with the lowest scores:
+1. Ayden Heaven (Manchester Utd): 0
+2. Bart Verbruggen (Brighton): 0
+3. Tyrone Mings (Aston Villa): 0
+
+PrgP_passing
+Top 3 players with highest scores:
+1. Bruno Fernandes (Manchester Utd): 264
+2. Bruno Guimarães (Newcastle Utd): 241
+3. Joško Gvardiol (Manchester City): 240
+
+Top 3 players with the lowest scores:
+1. Aaron Ramsdale (Southampton): 0
+2. Alisson (Liverpool): 0
+3. Łukasz Fabiański (West Ham): 0
+
+SCA
+Top 3 players with highest scores:
+1. Cole Palmer (Chelsea): 180
+2. Bruno Fernandes (Manchester Utd): 157
+3. Mohamed Salah (Liverpool): 144
+
+Top 3 players with the lowest scores:
+1. Benoît Badiashile (Chelsea): 0
+2. Ben Mee (Brentford): 0
+3. Neto (Bournemouth): 0
+
+SCA90
+Top 3 players with highest scores:
+1. Philip Billing (Bournemouth): 7.83
+2. Luis Guilherme (West Ham): 6.52
+3. Kevin De Bruyne (Manchester City): 6.24
+
+Top 3 players with the lowest scores:
+1. Kosta Nedeljković (Aston Villa): 0
+2. Benoît Badiashile (Chelsea): 0
+3. Ben Mee (Brentford): 0
+
+GCA
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 24
+2. Bukayo Saka (Arsenal): 22
+3. Mikkel Damsgaard (Brentford): 21
+
+Top 3 players with the lowest scores:
+1. Aaron Cresswell (West Ham): 0
+2. Aaron Ramsdale (Southampton): 0
+3. Ali Al Hamadi (Ipswich Town): 0
+
+GCA90
+Top 3 players with highest scores:
+1. Bukayo Saka (Arsenal): 1.36
+2. Solly March (Brighton): 1.08
+3. Harvey Elliott (Liverpool): 0.98
+
+Top 3 players with the lowest scores:
+1. Victor Lindelöf (Manchester Utd): 0
+2. Andy Irving (West Ham): 0
+3. Andrés García (Aston Villa): 0
+
+Tkl
+Top 3 players with highest scores:
+1. Idrissa Gana Gueye (Everton): 123
+2. Daniel Muñoz (Crystal Palace): 109
+3. Noussair Mazraoui (Manchester Utd): 100
+
+Top 3 players with the lowest scores:
+1. Aaron Ramsdale (Southampton): 0
+2. Neto (Bournemouth): 0
+3. Łukasz Fabiański (West Ham): 0
+
+TklW
+Top 3 players with highest scores:
+1. Idrissa Gana Gueye (Everton): 74
+2. Daniel Muñoz (Crystal Palace): 70
+3. Moisés Caicedo (Chelsea): 63
+
+Top 3 players with the lowest scores:
+1. Aaron Ramsdale (Southampton): 0
+2. Ali Al Hamadi (Ipswich Town): 0
+3. Alisson (Liverpool): 0
+
+Att
+Top 3 players with highest scores:
+1. Trent Alexander-Arnold (Liverpool): 100
+2. João Gomes (Wolves): 97
+3. Elliot Anderson (Nott'ham Forest): 93
+
+Top 3 players with the lowest scores:
+1. Danny Ward (Leicester City): 0
+2. Martin Dúbravka (Newcastle Utd): 0
+3. Caoimhín Kelleher (Liverpool): 0
+
+Lost
+Top 3 players with highest scores:
+1. Chris Wood (Nott'ham Forest): 117
+2. Jørgen Strand Larsen (Wolves): 96
+3. Jean-Philippe Mateta (Crystal Palace): 95
+
+Top 3 players with the lowest scores:
+1. Aaron Ramsdale (Southampton): 0
+2. Antonín Kinský (Tottenham): 0
+3. Ben Godfrey (Ipswich Town): 0
+
+Blocks
+Top 3 players with highest scores:
+1. Nathan Collins (Brentford): 68
+2. Murillo (Nott'ham Forest): 66
+3. Tyrick Mitchell (Crystal Palace): 62
+
+Top 3 players with the lowest scores:
+1. Willian (Fulham): 0
+2. William Osula (Newcastle Utd): 0
+3. Antonín Kinský (Tottenham): 0
+
+Sh
+Top 3 players with highest scores:
+1. Nathan Collins (Brentford): 48
+2. Dara O'Shea (Ipswich Town): 47
+3. Murillo (Nott'ham Forest): 43
+
+Top 3 players with the lowest scores:
+1. İlkay Gündoğan (Manchester City): 0
+2. Aaron Ramsdale (Southampton): 0
+3. William Osula (Newcastle Utd): 0
+
+Pass
+Top 3 players with highest scores:
+1. Alexis Mac Allister (Liverpool): 53
+2. Tyrick Mitchell (Crystal Palace): 50
+3. Antoine Semenyo (Bournemouth): 48
+
+Top 3 players with the lowest scores:
+1. Aaron Ramsdale (Southampton): 0
+2. Ali Al Hamadi (Ipswich Town): 0
+3. Alisson (Liverpool): 0
+
+Int
+Top 3 players with highest scores:
+1. Aaron Wan-Bissaka (West Ham): 59
+2. Antonee Robinson (Fulham): 56
+3. Ryan Gravenberch (Liverpool): 56
+
+Top 3 players with the lowest scores:
+1. Antonín Kinský (Tottenham): 0
+2. Arijanet Muric (Ipswich Town): 0
+3. Bart Verbruggen (Brighton): 0
+
+Touches
+Top 3 players with highest scores:
+1. Virgil van Dijk (Liverpool): 2915
+2. Joško Gvardiol (Manchester City): 2808
+3. Levi Colwill (Chelsea): 2669
+
+Top 3 players with the lowest scores:
+1. Odsonne Édouard (Crystal Palace): 20
+2. Albert Grønbaek (Southampton): 38
+3. William Osula (Newcastle Utd): 42
+
+Def_Pen
+Top 3 players with highest scores:
+1. Mark Flekken (Brentford): 1261
+2. Bernd Leno (Fulham): 1066
+3. Bart Verbruggen (Brighton): 999
+
+Top 3 players with the lowest scores:
+1. Emi Buendía (Aston Villa): 0
+2. William Osula (Newcastle Utd): 1
+3. Miguel Almirón (Newcastle Utd): 1
+
+Def_3rd
+Top 3 players with highest scores:
+1. Mark Flekken (Brentford): 1569
+2. Jordan Pickford (Everton): 1451
+3. Bernd Leno (Fulham): 1318
+
+Top 3 players with the lowest scores:
+1. William Osula (Newcastle Utd): 2
+2. Odsonne Édouard (Crystal Palace): 2
+3. Callum Wilson (Newcastle Utd): 5
+
+Mid_3rd
+Top 3 players with highest scores:
+1. Virgil van Dijk (Liverpool): 1624
+2. William Saliba (Arsenal): 1495
+3. Moisés Caicedo (Chelsea): 1442
+
+Top 3 players with the lowest scores:
+1. Neto (Bournemouth): 0
+2. Danny Ward (Leicester City): 0
+3. Fraser Forster (Tottenham): 0
+
+Att_3rd
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 967
+2. Bryan Mbeumo (Brentford): 851
+3. Bruno Fernandes (Manchester Utd): 848
+
+Top 3 players with the lowest scores:
+1. Aaron Ramsdale (Southampton): 0
+2. Alisson (Liverpool): 0
+3. Bart Verbruggen (Brighton): 0
+
+Att_Pen
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 310
+2. Alexander Isak (Newcastle Utd): 174
+3. Antoine Semenyo (Bournemouth): 174
+
+Top 3 players with the lowest scores:
+1. Bart Verbruggen (Brighton): 0
+2. Benoît Badiashile (Chelsea): 0
+3. Billy Gilmour (Brighton): 0
+
+Att_take_ons
+Top 3 players with highest scores:
+1. Mohammed Kudus (West Ham): 188
+2. Jeremy Doku (Manchester City): 175
+3. Morgan Rogers (Aston Villa): 145
+
+Top 3 players with the lowest scores:
+1. Aaron Ramsdale (Southampton): 0
+2. Bernd Leno (Fulham): 0
+3. Ben Godfrey (Ipswich Town): 0
+
+Succ%
+Top 3 players with highest scores:
+1. Łukasz Fabiański (West Ham): 100
+2. Aaron Cresswell (West Ham): 100
+3. Tyrone Mings (Aston Villa): 100
+
+Top 3 players with the lowest scores:
+1. Abdukodir Khusanov (Manchester City): 0
+2. Bobby De Cordova-Reid (Leicester City): 0
+3. Benoît Badiashile (Chelsea): 0
+
+Tkld%
+Top 3 players with highest scores:
+1. Abdukodir Khusanov (Manchester City): 100
+2. Armel Bella Kotchap (Southampton): 100
+3. Santiago Bueno (Wolves): 100
+
+Top 3 players with the lowest scores:
+1. Aaron Cresswell (West Ham): 0
+2. Łukasz Fabiański (West Ham): 0
+3. Bart Verbruggen (Brighton): 0
+
+Carries
+Top 3 players with highest scores:
+1. Joško Gvardiol (Manchester City): 1826
+2. William Saliba (Arsenal): 1642
+3. Virgil van Dijk (Liverpool): 1640
+
+Top 3 players with the lowest scores:
+1. Odsonne Édouard (Crystal Palace): 11
+2. Harry Toffolo (Nott'ham Forest): 17
+3. Albert Grønbaek (Southampton): 18
+
+ProDist
+Top 3 players with highest scores:
+1. Jan Paul van Hecke (Brighton): 6643
+2. Joško Gvardiol (Manchester City): 5505
+3. Rúben Dias (Manchester City): 5097
+
+Top 3 players with the lowest scores:
+1. Odsonne Édouard (Crystal Palace): 2
+2. Albert Grønbaek (Southampton): 15
+3. Harry Toffolo (Nott'ham Forest): 23
+
+ProgC
+Top 3 players with highest scores:
+1. Jeremy Doku (Manchester City): 176
+2. Kaoru Mitoma (Brighton): 138
+3. Mohamed Salah (Liverpool): 138
+
+Top 3 players with the lowest scores:
+1. Aaron Ramsdale (Southampton): 0
+2. Wataru Endo (Liverpool): 0
+3. Armel Bella Kotchap (Southampton): 0
+
+1/3_carries
+Top 3 players with highest scores:
+1. Alex Iwobi (Fulham): 100
+2. Joško Gvardiol (Manchester City): 91
+3. Matheus Cunha (Wolves): 86
+
+Top 3 players with the lowest scores:
+1. Bernd Leno (Fulham): 0
+2. Billy Gilmour (Brighton): 0
+3. Robin Olsen (Aston Villa): 0
+
+CPA
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 110
+2. Noni Madueke (Chelsea): 80
+3. Jeremy Doku (Manchester City): 80
+
+Top 3 players with the lowest scores:
+1. Aaron Cresswell (West Ham): 0
+2. Aaron Ramsdale (Southampton): 0
+3. Yves Bissouma (Tottenham): 0
+
+Mis
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 102
+2. Morgan Rogers (Aston Villa): 102
+3. Liam Delap (Ipswich Town): 96
+
+Top 3 players with the lowest scores:
+1. Nick Pope (Newcastle Utd): 0
+2. Robert Sánchez (Chelsea): 0
+3. Robin Olsen (Aston Villa): 0
+
+Dis
+Top 3 players with highest scores:
+1. Mohammed Kudus (West Ham): 88
+2. Bruno Guimarães (Newcastle Utd): 73
+3. Dejan Kulusevski (Tottenham): 72
+
+Top 3 players with the lowest scores:
+1. Aaron Cresswell (West Ham): 0
+2. Aaron Ramsdale (Southampton): 0
+3. Welington (Southampton): 0
+
+Rec
+Top 3 players with highest scores:
+1. Joško Gvardiol (Manchester City): 2062
+2. William Saliba (Arsenal): 2013
+3. Virgil van Dijk (Liverpool): 1996
+
+Top 3 players with the lowest scores:
+1. Odsonne Édouard (Crystal Palace): 13
+2. Albert Grønbaek (Southampton): 21
+3. William Osula (Newcastle Utd): 27
+
+PrgR_possession
+Top 3 players with highest scores:
+1. Mohamed Salah (Liverpool): 407
+2. Bryan Mbeumo (Brentford): 300
+3. Kaoru Mitoma (Brighton): 277
+
+Top 3 players with the lowest scores:
+1. Łukasz Fabiański (West Ham): 0
+2. Aaron Ramsdale (Southampton): 0
+3. Nathan Wood-Gordon (Southampton): 0
+
+Fls
+Top 3 players with highest scores:
+1. João Gomes (Wolves): 65
+2. Liam Delap (Ipswich Town): 65
+3. Antoine Semenyo (Bournemouth): 64
+
+Top 3 players with the lowest scores:
+1. Martin Dúbravka (Newcastle Utd): 0
+2. Mark Travers (Bournemouth): 0
+3. Mark Flekken (Brentford): 0
+
+Fld
+Top 3 players with highest scores:
+1. Bruno Guimarães (Newcastle Utd): 99
+2. Matheus Cunha (Wolves): 69
+3. James Maddison (Tottenham): 63
+
+Top 3 players with the lowest scores:
+1. Antonín Kinský (Tottenham): 0
+2. Odsonne Édouard (Crystal Palace): 0
+3. Ben Godfrey (Ipswich Town): 0
+
+Off
+Top 3 players with highest scores:
+1. Dominic Calvert-Lewin (Everton): 27
+2. Jamie Vardy (Leicester City): 25
+3. Chris Wood (Nott'ham Forest): 24
+
+Top 3 players with the lowest scores:
+1. Wataru Endo (Liverpool): 0
+2. Joël Veltman (Brighton): 0
+3. Virgil van Dijk (Liverpool): 0
+
+Crs
+Top 3 players with highest scores:
+1. Pedro Porro (Tottenham): 191
+2. Bryan Mbeumo (Brentford): 171
+3. Andreas Pereira (Fulham): 168
+
+Top 3 players with the lowest scores:
+1. Łukasz Fabiański (West Ham): 0
+2. Aaron Ramsdale (Southampton): 0
+3. Woyo Coulibaly (Leicester City): 0
+
+Recov
+Top 3 players with highest scores:
+1. Moisés Caicedo (Chelsea): 197
+2. Bruno Fernandes (Manchester Utd): 187
+3. Ryan Christie (Bournemouth): 182
+
+Top 3 players with the lowest scores:
+1. Danny Ward (Leicester City): 1
+2. Fraser Forster (Tottenham): 1
+3. Odsonne Édouard (Crystal Palace): 1
+
+Won
+Top 3 players with highest scores:
+1. Dan Burn (Newcastle Utd): 127
+2. Virgil van Dijk (Liverpool): 109
+3. Nathan Collins (Brentford): 103
+
+Top 3 players with the lowest scores:
+1. Welington (Southampton): 0
+2. Andrés García (Aston Villa): 0
+3. Tyrique George (Chelsea): 0
+
+Won%
+Top 3 players with highest scores:
+1. André Onana (Manchester Utd): 100
+2. Massimo Luongo (Ipswich Town): 100
+3. Martin Dúbravka (Newcastle Utd): 100
+
+Top 3 players with the lowest scores:
+1. Tyrique George (Chelsea): 0
+2. Welington (Southampton): 0
+3. Miguel Almirón (Newcastle Utd): 0
+
+----------------------------------------------------------------------
+
+
+Best Teams by Statistic:
+MP: Crystal Palace
+Starts: Crystal Palace
+Min: Crystal Palace
+Goals: Liverpool
+Assists: Liverpool
+Yellow_Card: Chelsea
+Red_Card: Arsenal
+stand_xG: Liverpool
+xAG: Liverpool
+PrgC: Manchester City
+PrgP: Liverpool
+PrgR: Liverpool
+Gls: Aston Villa
+Ast: Liverpool
+xG: Aston Villa
+xGA: Chelsea
+GA90: Leicester City
+Save%: Bournemouth
+CS%: Brentford
+PKsv%: Everton
+SoT%: Nott'ham Forest
+SoT/90: Bournemouth
+G/Sh: Arsenal
+Dist: Nott'ham Forest
+Cmp: Liverpool
+Cmp%: Manchester City
+TotDist: Liverpool
+Short_Cmp%: Manchester City
+Medium_Cmp%: Manchester City
+KP: Liverpool
+1/3: Liverpool
+PPA: Liverpool
+CrsPA: Fulham
+PrgP_passing: Liverpool
+SCA: Liverpool
+SCA90: Liverpool
+GCA: Liverpool
+GCA90: Liverpool
+Tkl: Crystal Palace
+TklW: Crystal Palace
+Att: Crystal Palace
+Lost: Crystal Palace
+Blocks: Crystal Palace
+Sh: Brentford
+Pass: Crystal Palace
+Int: Everton
+Touches: Liverpool
+Def_Pen: Brentford
+Def_3rd: Brentford
+Mid_3rd: Liverpool
+Att_3rd: Manchester City
+Att_Pen: Liverpool
+Att_take_ons: West Ham
+Succ%: Liverpool
+Tkld%: Leicester City
+Carries: Manchester City
+ProDist: Manchester City
+ProgC: Manchester City
+1/3_carries: Manchester City
+CPA: Manchester City
+Mis: Nott'ham Forest
+Dis: Newcastle Utd
+Rec: Manchester City
+PrgR_possession: Liverpool
+Fls: Bournemouth
+Fld: Newcastle Utd
+Off: Nott'ham Forest
+Crs: Fulham
+Recov: Crystal Palace
+Won: Brentford
+Won%: Southampton
+Available_Data_Count: Arsenal
+
+Team with most top statistics: Liverpool
