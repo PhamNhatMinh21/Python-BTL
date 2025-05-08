@@ -27,7 +27,6 @@ stat_configs = {
     'goalkeeping': {'url': 'https://fbref.com/en/comps/9/keepers/Premier-League-Stats', 'table_id': 'stats_keeper'},
     'shooting': {'url': 'https://fbref.com/en/comps/9/shooting/Premier-League-Stats', 'table_id': 'stats_shooting'},
     'passing': {'url': 'https://fbref.com/en/comps/9/passing/Premier-League-Stats', 'table_id': 'stats_passing'},
-    'passing_types': {'url': 'https://fbref.com/en/comps/9/passing_types/Premier-League-Stats', 'table_id': 'stats_passing_types'},
     'gca': {'url': 'https://fbref.com/en/comps/9/gca/Premier-League-Stats', 'table_id': 'stats_gca'},
     'defense': {'url': 'https://fbref.com/en/comps/9/defense/Premier-League-Stats', 'table_id': 'stats_defense'},
     'possession': {'url': 'https://fbref.com/en/comps/9/possession/Premier-League-Stats', 'table_id': 'stats_possession'},
